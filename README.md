@@ -1,4 +1,4 @@
-# Reznor lens aperture values
+# Reznor lens aperture values calculator
 > Own simple program written in C++.
 
 ## General info
