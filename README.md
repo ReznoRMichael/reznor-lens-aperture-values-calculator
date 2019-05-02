@@ -10,4 +10,4 @@ A program for showing on screen the default Aperture Values (f/ stops) of photog
 * GNU GCC Compiler (minGW)
 
 ## Contact
-[ReznoRMichael](https://github.com/ReznoRMichael)
+Written in C++ by [ReznoRMichael](https://github.com/ReznoRMichael) - 2018
